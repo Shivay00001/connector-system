@@ -1,5 +1,7 @@
 # AI Multi-Agent Coordinator
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 A graphical Pipeline Builder and Orchestrator that dynamically links multiple autonomous agents together into multi-step workflows.
 
 ## Overview
